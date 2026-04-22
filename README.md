@@ -3,13 +3,13 @@
 ---
 
 ## Dashboards
+<details>
+<summary>Click to expand</summary>
 
-### Dashboard 1
 ![Dashboard 1](Screenshots/Executive_Overview.png)
 
-### Dashboard 2
 ![Dashboard 2](Screenshots/Operational_Performance.png)
-
+</details>
 ---
 
 ## Key Skills
