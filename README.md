@@ -39,7 +39,6 @@ The raw dataset contained significant quality issues (documented in `Data_issues
 *Focus: Sales volume trends, payment method distribution, and product rankings.*
 
 </details>
----
 
 ## **Key Skills**
 * **Advanced Power Query:** Writing custom functions and M-scripting.
