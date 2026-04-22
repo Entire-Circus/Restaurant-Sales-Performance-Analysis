@@ -2,7 +2,7 @@
 
 ---
 
-## Dashboards
+## **Dashboards**
 <details>
 <summary>Click to expand</summary>
 
@@ -12,7 +12,7 @@
 </details>
 ---
 
-## Key Skills
+## **Key Skills**
 - Data Cleaning (Power Query)  
 - Data Analysis (Excel)  
 - Dashboard Design  
